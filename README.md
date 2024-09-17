@@ -1,6 +1,6 @@
 ☁️ [liamshort.github.io](https://liamshort.github.io)
 
-💻 Senior Infrastructure Engineer @ Datavant
+💻 Infrastructure Engineer @ Datavant
 
 💻 Former Senior Cloud Systems Developer Lead @ Cleadreach
 
